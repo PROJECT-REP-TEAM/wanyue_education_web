@@ -12,6 +12,9 @@
 ------------------------------------------------------------------------
 </div>
 
+### 系统修复【更新时间2022年4月24日】
+* 修复后台配置三方的问题
+* 修复新增新闻资讯和名师名课，不显示问题
 
 ### 更新说明【更新时间2022年2月21日】
 * 新增新闻资讯功能，后台可以添加图文资讯，前端滚动显示新闻标题，点击后查看资讯
@@ -24,10 +27,10 @@
 ---
 
 ### 系统演示
-- 首页地址: <a target="_blank" href="https://demo.sdwanyue.com">https://demo.sdwanyue.com</a>
-- 学生端地址: <a target="_blank" href="https://demo.sdwanyue.com">https://demo.sdwanyue.com</a> 账号:13800000000 密码:123456
-- 教师端地址: <a target="_blank" href="https://demo.sdwanyue.com/teacher">https://demo.sdwanyue.com/teacher</a> 账号:13866666666 密码:123456
-- 后台地址: <a target="_blank" href="https://demo.sdwanyue.com/admin">https://demo.sdwanyue.com/admin</a> 账号: demo 密码: 123456
+- 首页地址: <a target="_blank" href="https://edudemo.sdwanyue.com">https://edudemo.sdwanyue.com</a>
+- 学生端地址: <a target="_blank" href="https://edudemo.sdwanyue.com">https://edudemo.sdwanyue.com</a> 账号:13800000000 密码:123456
+- 教师端地址: <a target="_blank" href="https://edudemo.sdwanyue.com/teacher">https://edudemo.sdwanyue.com/teacher</a> 账号:13866666666 密码:123456
+- 后台地址: <a target="_blank" href="https://edudemo.sdwanyue.com/admin">https://edudemo.sdwanyue.com/admin</a> 账号: demo 密码: 123456
 
 
 ### Uni-app版地址
