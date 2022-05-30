@@ -77,7 +77,9 @@
 
 ![展示图](https://images.gitee.com/uploads/images/2021/0317/100203_29192e47_8543696.png "live_student.png")
 ![展示图](https://images.gitee.com/uploads/images/2021/0317/100218_871f0135_8543696.png "live_yuyin_student.png")
-
+  
+  #### 版本功能对比表
+![输入图片说明](%E5%BC%80%E6%BA%90%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94%E5%9B%BE.png)
 
 
 ### 开发结构
