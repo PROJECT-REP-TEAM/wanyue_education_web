@@ -24,7 +24,7 @@ class HomeBaseController extends BaseController
         parent::initialize();
         $siteInfo = cmf_get_site_info();
 
-        $siteInfo['qr_url'] = get_upload_path($siteInfo['qr_url']);
+        // $siteInfo['qr_url'] = get_upload_path($siteInfo['qr_url']);
         $siteInfo['wx_url'] = get_upload_path($siteInfo['wx_url']);
         View::share('site_info', $siteInfo);
         View::share('site_infoj', json_encode($siteInfo));
