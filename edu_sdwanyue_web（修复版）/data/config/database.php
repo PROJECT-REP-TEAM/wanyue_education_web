@@ -6,8 +6,8 @@
 return [
     // 数据库类型
     'type'     => 'mysql',
-    // 服务器地址
-    'hostname' => '',
+    // 服务器地址 宝塔搭建则不需要修改
+    'hostname' => '127.0.0.1',
     // 数据库名
     'database' => '',
     // 用户名
@@ -24,7 +24,7 @@ return [
     //#COOKIE_PREFIX#
 	
 	/* redis */
-	'REDIS_HOST' => "",
+    'REDIS_HOST' => "127.0.0.1",
 	'REDIS_AUTH' => "",
 	'REDIS_PORT' => "",
 	'REDIS_SELECT' => "",
