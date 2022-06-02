@@ -22,9 +22,11 @@ return array(
     ),
 
     /* redis信息 */
-    'REDIS_HOST' => "",
+    'REDIS_HOST' => "127.0.0.1",
     'REDIS_AUTH' => "",
+    /* redis密码，必填 */
     'REDIS_PORT' => "",
+    /* redis端口*/
     'REDIS_SELECT' => "",
     
     /* 接口签名key */
