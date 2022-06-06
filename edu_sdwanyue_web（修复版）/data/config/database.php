@@ -28,5 +28,6 @@ return [
 	'REDIS_AUTH' => "",
 	'REDIS_PORT' => "",
 	'REDIS_SELECT' => "",
+    //select可不填写
 	
 ];
