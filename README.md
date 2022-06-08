@@ -139,9 +139,4 @@
 
 ###  开源交流群【加群回答请填写“gitee教育”】
 
-> 万岳科技开源讨论10群：995910672
- <img class="kefu_weixin" style="float:left;" src="https://images.gitee.com/uploads/images/2021/0524/181101_c6bda503_2242923.jpeg" width="102" height="102"/>
->
-> 万岳科技开源讨论15群：681418688
- <img class="kefu_weixin" style="float:left;" src="https://images.gitee.com/uploads/images/2021/0524/181101_c6bda503_2242923.jpeg" width="102" height="102"/>
->
+![输入图片说明](%E4%B8%87%E5%B2%B3%E7%A7%91%E6%8A%80%E5%BC%80%E6%BA%90%E8%AE%A8%E8%AE%BA10%E7%BE%A4%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)  ![输入图片说明](%E4%B8%87%E5%B2%B3%E7%A7%91%E6%8A%80%E5%BC%80%E6%BA%90%E8%AE%A8%E8%AE%BA15%E7%BE%A4%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
