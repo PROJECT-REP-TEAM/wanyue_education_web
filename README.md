@@ -63,10 +63,7 @@
 
  
   ### 页面展示
-![输入图片说明](%E4%B8%87%E5%B2%B3%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2web%E7%AB%AF(%E4%B8%AD%E8%8B%B1%E6%96%87)1.png)
-![输入图片说明](%E4%B8%87%E5%B2%B3%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2web%E7%AB%AF(%E4%B8%AD%E8%8B%B1%E6%96%87)2.png)
-![输入图片说明](%E4%B8%87%E5%B2%B3%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2web%E7%AB%AF(%E4%B8%AD%E8%8B%B1%E6%96%87)3.png)
-![输入图片说明](%E4%B8%87%E5%B2%B3%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2web%E7%AB%AF(%E4%B8%AD%E8%8B%B1%E6%96%87)4.png)
+![输入图片说明](edu_sdwanyue_web%EF%BC%88%E4%BF%AE%E5%A4%8D%E7%89%88%EF%BC%89/%E4%B8%87%E5%B2%B3%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2web%E7%AB%AF(%E4%B8%AD%E8%8B%B1%E6%96%87).png)
   #### 统计页面
 ![统计页面](https://images.gitee.com/uploads/images/2021/0410/152726_aba91433_8162876.png "1.png")
 ![统计页面](https://images.gitee.com/uploads/images/2021/0410/152741_f4ea0543_8162876.png "2.png")
